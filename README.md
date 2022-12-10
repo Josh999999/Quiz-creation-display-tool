@@ -6,3 +6,15 @@ Quizes can also be completed and displayed with the other part of the project in
 
 
 ![image](https://user-images.githubusercontent.com/87393875/206874755-cb4d6175-989e-45b4-a09b-ded1aabe9e74.png)
+
+- This is the quiz creation page - here users can input questions they want to be stored and the options they wan't the people taking the quiz to be presented with.
+- The tick boxes on the right hand side are used to determine which options are correct or not.
+
+
+
+The result of saving this quiz will all inputs correctly filled out will be a JSON file similar to this one:
+
+![image](https://user-images.githubusercontent.com/87393875/206874832-00d57c96-360a-4582-99b0-9a72e6531301.png)
+
+
+
