@@ -11,8 +11,13 @@ Quizes can also be completed and displayed with the other part of the project in
 - The tick boxes on the right hand side are used to determine which options are correct or not.
 
 
-\n
-\n
+
+
+
+
+
+
+
 
 The result of saving this quiz will all inputs correctly filled out will be a JSON file similar to this one:
 
