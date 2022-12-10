@@ -32,6 +32,12 @@ This is what it looks like when the quiz_run tool display the quiz:
 
 ![image](https://user-images.githubusercontent.com/87393875/206875189-b9ab97f3-ea2f-4eb6-9ce4-8be46a8ad17b.png)
 
+
+<br>
+<br>
+<br>
+
+
 - From here the user can pick one of two options (James or Josh), as show in the JSON file both answers are set to correct
 - Therefore they will both return the same thing:
   - ![image](https://user-images.githubusercontent.com/87393875/206875261-06161158-518c-4178-9974-ce0e0567b438.png)
