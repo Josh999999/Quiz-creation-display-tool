@@ -20,5 +20,6 @@ The result of saving this quiz will all inputs correctly filled out will be a JS
 
 ![image](https://user-images.githubusercontent.com/87393875/206874832-00d57c96-360a-4582-99b0-9a72e6531301.png)
 
+- This information stored in this file will be used by the quiz_run tool to display the quiz and allow the user to interact with it
 
 
